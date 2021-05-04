@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914635837653",
+    "project_id": "fir-app-e85db",
+    "storage_bucket": "fir-app-e85db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914635837653:android:d0ba9c8b45ff49161bd25c",
+        "android_client_info": {
+          "package_name": "inno.isourcestudios.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914635837653-4o2lu3kvtjmq8h204sa9rg7o7i64apms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtkAWjEnexTDKPNWjAuDCzlkKvbVb0Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914635837653-4o2lu3kvtjmq8h204sa9rg7o7i64apms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
